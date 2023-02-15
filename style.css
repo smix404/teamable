@@ -1,0 +1,40 @@
+img {
+    display: block;
+    margin-bottom: 30px;
+}
+
+div {
+    margin: 40px auto;
+    width: 80%;
+    
+}
+
+hr {
+    width: 400px;
+    margin: 25px 0 25px;
+}
+button{
+    width: 160px;
+    height: 45px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+input{
+    height: 15px;
+    width: 200px;
+    padding: 10px;
+}
+
+
+#edit-view {
+    display: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.datepicker{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
